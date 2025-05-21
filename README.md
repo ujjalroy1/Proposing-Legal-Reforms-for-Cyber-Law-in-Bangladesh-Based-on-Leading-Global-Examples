@@ -1,4 +1,5 @@
 ![HSTU-logo](https://github.com/ujjalroy1/Automated-Exam-Routine-Generator/assets/108274977/c383c571-4af3-4cbe-aafa-198e6d49a3a4)
+
 Course Title: Computer Ethics and Cyber Law 
 
 Course Code: CSE 455 
@@ -10,7 +11,7 @@ ID : 2002033
 
 L-4, S-II
 
-Department: CSE
+Department: CSE, HSTU
 
 
 ## Submitted TO
